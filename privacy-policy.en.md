@@ -1,8 +1,8 @@
 # Privacy Policy
 
-Effective date: November 9, 2026
+Effective date: November 14, 2026
 
-[Operator name] ("we", "us") has established this Privacy Policy to explain how we handle information in the iOS app "Itadakimono" (the "App").
+Operator ("we", "us") has established this Privacy Policy to explain how we handle information in the iOS app "Itadakimono" (the "App").
 
 ## 1. Our approach
 
@@ -87,8 +87,7 @@ The App is not primarily directed at children under the age of 13.
 
 If you have any questions about this Privacy Policy, please contact us:
 
-- Operator: [Operator name]
-- Email: [Contact email address]
+- Email: yatsutako2@gmail.com
 
 ## 11. Changes to this Privacy Policy
 
