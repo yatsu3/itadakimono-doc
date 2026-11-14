@@ -1,8 +1,8 @@
 # Terms of Use
 
-Effective date: November 9, 2026
+Effective date: November 14, 2026
 
-These Terms of Use (the "Terms") set out the conditions for using the iOS app "Itadakimono" (the "App") provided by [Operator name] ("we", "us"). By using the App, you ("you" or the "User") agree to these Terms.
+These Terms of Use (the "Terms") set out the conditions for using the iOS app "Itadakimono" (the "App") provided by Operator ("we", "us"). By using the App, you ("you" or the "User") agree to these Terms.
 
 ## Article 1 (Scope)
 
@@ -82,7 +82,6 @@ Your information is handled in accordance with our separate Privacy Policy.
 
 If you have any questions about these Terms, please contact us:
 
-- Operator: [Operator name]
-- Email: [Contact email address]
+- Email: yatsutako2@gmail.com
 
 These Terms are written in Japanese and English. If there is any inconsistency between the two, the Japanese version prevails.
